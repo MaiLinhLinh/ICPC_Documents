@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\DSA\\Graph\\C.cpp","tests":[{"id":1724129199012,"input":"5\n1 1 0 1 1\n1 0 1 1 1\n1 1 1 0 0\n1 1 0 1 1\n1 1 0 1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Graph\\C.cpp","group":"local","local":true}

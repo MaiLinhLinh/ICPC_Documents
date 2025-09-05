@@ -1,0 +1,1 @@
+{"name":"Local: Timkiem","url":"d:\\DSA\\Timkiem.cpp","tests":[{"id":1721286654293,"input":"7 0\n4 5 6 7 0 1 2","output":""},{"id":1721286714503,"input":"7 3\n4 5 6 7 0 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Timkiem.cpp","group":"local","local":true}
